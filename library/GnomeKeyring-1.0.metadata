@@ -54,7 +54,7 @@ set_info skip=false
 set_network_password skip=false
 store_password skip=false
 store_password_sync skip=false
-unlock skip=false
+@unlock skip=false
 
 find_items*.callback type_arguments="GnomeKeyring.Found"
 find_network_password*.callback type_arguments="GnomeKeyring.NetworkPasswordData"
