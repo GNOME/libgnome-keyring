@@ -1,3 +1,6 @@
 gnome-keyring is a program that keep password and other secrets for
 users. The library libgnome-keyring is used by applications to integrate
 with the gnome keyring system.
+
+This project is deprecated and has been superseded by 
+libsecret (https://gitlab.gnome.org/GNOME/libsecret).
